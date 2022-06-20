@@ -1,3 +1,0 @@
-#Decagon
-
-weekly task
